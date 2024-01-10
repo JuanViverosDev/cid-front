@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "Memorando",
+      "is_generate_minutes": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 2,
+      "name": "Oficio",
+      "is_generate_minutes": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 3,
+      "name": "Queja",
+      "is_generate_minutes": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 4,
+      "name": "Anónimo",
+      "is_generate_minutes": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 5,
+      "name": "Informe",
+      "is_generate_minutes": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 6,
+      "name": "Solicitud Administrativa",
+      "is_generate_minutes": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    }
+  ]
+}

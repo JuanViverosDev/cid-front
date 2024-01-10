@@ -1,0 +1,206 @@
+
+{
+  "success": true,
+  "data":[
+    {
+      "id": "1144234564",
+      "name": "John",
+      "lastName": "Smith",
+      "email": "john.smith@gmail.com",
+      "positionName": "Director",
+      "position": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 11,
+        "name": "Director",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "roleName": "Director",
+      "role": {
+          "createdAt": "2022-02-01T16:24:58.773Z",
+          "id": 2,
+          "name": "Director",
+          "state": true,
+          "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "createdAt": "2022-01-10T01:15:23.346Z",
+      "updatedAt": "2022-01-10T01:15:23.346Z",
+      "state": true
+    },
+    {
+      "id": "1255234564",
+      "name": "Derly patricia ",
+      "lastName": "Saavedra",
+      "email": "derly.Saavedra@gmail.com",
+      "positionName": "Abogado",
+      "position": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 22,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "roleName": "Abogado",
+      "role": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 3,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "createdAt": "2022-01-10T01:15:23.346Z",
+      "updatedAt": "2022-01-10T01:15:23.346Z",
+      "state": true
+    },
+    {
+      "id": "1155234564",
+      "name": "Angela María ",
+      "lastName": "Palacios",
+      "email": "Angela.Palacios@gmail.com",
+      "positionName": "Abogado",
+      "position": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 22,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "roleName": "Abogado",
+      "role": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 2,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "createdAt": "2022-01-10T01:15:23.346Z",
+      "updatedAt": "2022-01-10T01:15:23.346Z",
+      "state": true
+    },
+    {
+      "id": "1155234123",
+      "name": "Jhon Didier",
+      "lastName": "Cardona",
+      "email": "Jhon.Cardona@gmail.com",
+      "positionName": "Abogado",
+      "position": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 22,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "roleName": "Abogado",
+      "role": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 2,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "createdAt": "2022-01-10T01:15:23.346Z",
+      "updatedAt": "2022-01-10T01:15:23.346Z",
+      "state": true
+    },
+    {
+      "id": "1155234432",
+      "name": "Luz Elena",
+      "lastName": "Cardona",
+      "email": "Luz.Cardona@gmail.com",
+      "positionName": "Abogado",
+      "position": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 22,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "roleName": "Abogado",
+      "role": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 2,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "createdAt": "2022-01-10T01:15:23.346Z",
+      "updatedAt": "2022-01-10T01:15:23.346Z",
+      "state": true
+    },
+    {
+      "id": "1155234444",
+      "name": "Gonzalo Abraham",
+      "lastName": "Moscoso",
+      "email": "Gonzalo.Moscoso@gmail.com",
+      "positionName": "Abogado",
+      "position": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 22,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "roleName": "Abogado",
+      "role": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 2,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "createdAt": "2022-01-10T01:15:23.346Z",
+      "updatedAt": "2022-01-10T01:15:23.346Z",
+      "state": true
+    },
+    {
+      "id": "1155234333",
+      "name": "Nelson Javier",
+      "lastName": "Cordero Perez",
+      "email": "Nelson.Perez@gmail.com",
+      "positionName": "Abogado",
+      "position": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 22,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "roleName": "Abogado",
+      "role": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 2,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "createdAt": "2022-01-10T01:15:23.346Z",
+      "updatedAt": "2022-01-10T01:15:23.346Z",
+      "state": true
+    },
+    {
+      "id": "1155234555",
+      "name": "Jaime Sierra",
+      "lastName": "Delgadillo",
+      "email": "Jaime.Delgadillo@gmail.com",
+      "positionName": "Abogado",
+      "position": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 22,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "roleName": "Abogado",
+      "role": {
+        "createdAt": "2022-02-01T16:24:58.773Z",
+        "id": 2,
+        "name": "Abogado",
+        "state": true,
+        "updatedAt": "2022-08-29T14:49:01.904Z"
+      },
+      "createdAt": "2022-01-10T01:15:23.346Z",
+      "updatedAt": "2022-01-10T01:15:23.346Z",
+      "state": false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "Archivo",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 2,
+      "name": "Indagación previa",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 3,
+      "name": "Reparto",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 4,
+      "name": "Inhibitorio",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 5,
+      "name": "Segunda instancia",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 6,
+      "name": "Investigación formal disciplinaria",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 7,
+      "name": "Cierre de investigación y alegatos precalificatorios",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 8,
+      "name": "Archivo y terminacion",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 9,
+      "name": "Juzgamiento",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 10,
+      "name": "Fallo",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 11,
+      "name": "Ejecución de la sanción",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    }
+    
+    
+    
+  ]
+}

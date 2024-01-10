@@ -1,0 +1,292 @@
+{
+  "data": {
+    "stsTokenManager":{
+      "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDMsIm5hbWUiOiJMZXdpcyIsImVtYWlsIjoibGV3aXNub2d1ZXJhQGdtYWlsLmNvbSIsInBob25lIjoiMzIwNzk3MTk1MyIsImlhdCI6MTY2MzcxOTA1MSwiZXhwIjoxNjYzNzIyNjUxfQ.3TaHM79_ZW-GF_dkJhVul3feJDOcjzoeL45dqOqCNa8"
+    },
+    "menu": [
+      {
+          "id": 1,
+          "name": "General",
+          "order": 0,
+          "state": true,
+          "menuModule": [
+              {
+                  "id": 1,
+                  "name": "Dashboard",
+                  "url": "/dashboard",
+                  "icon": "uil uil-estate",
+                  "order": 0,
+                  "state": true,
+                  "permission": [
+                      {
+                          "canView": true,
+                          "canCreate": true,
+                          "canEdit": true
+                      }
+                  ]
+              }
+           
+          ]
+      },
+      {
+        "id": 2,
+        "name": "Administrativo",
+        "order": 2,
+        "state": true,
+        "menuModule": [
+            {
+                "id": 2,
+                "name": "Peticiones",
+                "url": "/request",
+                "icon": "uil uil-megaphone",
+                "order": 0,
+                "state": true,
+                "permission": [
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    }
+                ]
+            }
+        ]
+      },
+      {
+        "id": 3,
+          "name": "Empleados",
+          "order": 1,
+          "state": true,
+          "menuModule":[
+            {
+                "id": 3,
+                "name": "Usuarios Agentes",
+                "url": "/users",
+                "icon": "uil uil-user-md",
+                "order": 3,
+                "state": true,
+                "permission": [
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    }
+                ]
+            },
+            {
+              "id": 4,
+              "name": "Cargos",
+              "url": "/positions",
+              "icon": "uil uil-briefcase-alt",
+              "order": 1,
+              "state": true,
+              "permission": [
+                  {
+                      "canView": true,
+                      "canCreate": true,
+                      "canEdit": true
+                  },
+                  {
+                      "canView": true,
+                      "canCreate": true,
+                      "canEdit": true
+                  },
+                  {
+                      "canView": true,
+                      "canCreate": true,
+                      "canEdit": true
+                  }
+              ]
+            },
+            {
+                "id": 5,
+                "name": "Roles",
+                "url": "/roles",
+                "icon": "uil uil-sliders-v",
+                "order": 2,
+                "state": true,
+                "permission": [
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    }
+                ]
+            }
+          ]
+      },
+      {
+        "id": 4,
+          "name": "Configuración General",
+          "order": 1,
+          "state": true,
+          "menuModule":[
+            {
+                "id": 3,
+                "name": "Sistemas",
+                "url": "/systems",
+                "icon": "uil uil-atom",
+                "order": 3,
+                "state": true,
+                "permission": [
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    }                   
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Estados del proceso",
+                "url": "/process-states",
+                "icon": "uil uil-process",
+                "order": 4,
+                "state": true,
+                "permission": [
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Tipos de Contacto",
+                "url": "/contact-types",
+                "icon": "uil uil-comment-question",
+                "order": 5,
+                "state": true,
+                "permission": [
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": "Tipos de solicitudes",
+                "url": "/request-types",
+                "icon": "uil uil-file-question-alt",
+                "order": 2,
+                "state": true,
+                "permission": [
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Abogados de oficio",
+                "url": "/public-defenders",
+                "icon": "uil uil-file-question-alt",
+                "order": 2,
+                "state": true,
+                "permission": [
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    },
+                    {
+                        "canView": true,
+                        "canCreate": true,
+                        "canEdit": true
+                    }
+                ]
+            }
+          ]
+      }
+    ],
+    "user": {
+        "name": "Lewis",
+        "lastName": "Noguera",
+        "email": "lewisnoguera@gmail.com",
+        "phone": "3207971953",
+        "state": true,
+        "role": {
+            "id": 80,
+            "name": "Director",
+            "state": true,
+            "createdAt": "2022-02-01T16:24:58.773Z",
+            "updatedAt": "2022-08-29T14:49:01.904Z"
+        }
+    }
+  },
+  "success": true
+}

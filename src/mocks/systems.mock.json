@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "Manual",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 2,
+      "name": "Excel",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 3,
+      "name": "Word",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 4,
+      "name": "OnBase",
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 5,
+      "name": "Archivo Plano",
+      "is_generate_minutes": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 6,
+      "name": "Página Web",
+      "is_generate_minutes": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    },
+    {
+      "id": 7,
+      "name": "Email",
+      "is_generate_minutes": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "state": true
+    }
+  ]
+}

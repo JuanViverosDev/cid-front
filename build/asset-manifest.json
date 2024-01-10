@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.323ce446.chunk.css",
+    "main.js": "/static/js/main.085b9012.chunk.js",
+    "main.js.map": "/static/js/main.085b9012.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ba6262f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ba6262f6.js.map",
+    "static/js/2.844dba1e.chunk.js": "/static/js/2.844dba1e.chunk.js",
+    "static/js/2.844dba1e.chunk.js.map": "/static/js/2.844dba1e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.323ce446.chunk.css.map": "/static/css/main.323ce446.chunk.css.map",
+    "static/js/2.844dba1e.chunk.js.LICENSE.txt": "/static/js/2.844dba1e.chunk.js.LICENSE.txt",
+    "static/js/main.085b9012.chunk.js.LICENSE.txt": "/static/js/main.085b9012.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/static/media/iconArrowDown.992aeb64.svg",
+    "static/media/EMCALI-LOGO-INTERNO.f0b28931.png": "/static/media/EMCALI-LOGO-INTERNO.f0b28931.png",
+    "static/media/LOGO-EMCALI.1695197d.png": "/static/media/LOGO-EMCALI.1695197d.png",
+    "static/media/iconEdit.ccaabfff.svg": "/static/media/iconEdit.ccaabfff.svg",
+    "static/media/iconLock.ac333fcb.svg": "/static/media/iconLock.ac333fcb.svg",
+    "static/media/iconLockOpen.d5562a29.svg": "/static/media/iconLockOpen.d5562a29.svg",
+    "static/media/iconPlus.c31e19d1.svg": "/static/media/iconPlus.c31e19d1.svg",
+    "static/media/iconSearch.d8ae7530.svg": "/static/media/iconSearch.d8ae7530.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba6262f6.js",
+    "static/js/2.844dba1e.chunk.js",
+    "static/css/main.323ce446.chunk.css",
+    "static/js/main.085b9012.chunk.js"
+  ]
+}

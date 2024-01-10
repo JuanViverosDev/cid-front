@@ -1,0 +1,102 @@
+
+Etapas:
+
+1	"Reparto"
+2	"Inhibitorio"
+3	"Indagación Previa"
+4	"Investigación Disciplinaria"
+5	"Segunda Instancia"
+6	"Juzgamiento"
+7	"Fallo"
+8	"Ejecución de la Sanción"
+9	"Cierre de Investigación y Alegatos Precalificatorios"
+10	"Archivo"
+11	"Archivo y Terminación"
+12	"Todas las etapas a excepción (Reparto, Archivo, Archivo y term. y ejecución sanción)"
+
+Flujo CID 
+
+Empiezo
+¿Se tiene identificado presunto autor de la falta disciplinaria?
+	SI
+		¿Se ordena investigación disciplinaria?
+			SI
+			
+			NO
+				(16) Elabora auto de archivo, oficio y memorando
+				10- AUTO ARCHIVO INDAGACION PREVIA 1952.1.doc
+				
+				(18) Secretaría - Comunicar al quejoso o informante
+				10- Memorando_Archivo_Indagación_Previa.docx
+				
+				(19) Secretaría - El área funcional de secretaría comun archiva...
+					¿Utiliza recurso de apelación?
+						SI
+							(23) Secretaría - Elaborar constancia secretarial
+							10- Constancia secretarial_si presenta recurso apelación.docx
+							
+							¿Procede recurso de apelación?
+								SI
+									(26) Secretaría - Elaborar auto remisorio
+									5- Auto Conceder Recurso Segunda Instancia Indagación Previa.docx
+									
+									(27) Secretaría - Elaborar memorando
+									5- Memorando remisión segunda instancia_IP.docx
+									
+									¿Continúa investigación?
+										SI
+											(29) Elaborar auto de inicio de investigación disciplinaria...
+											
+
+											(37) Secretaría - Notificar el auto de inicio
+										
+										
+										NO
+											(30) Realizar auto de cumplimiento segunda instancia_IP
+											5- Auto cumplimiento de archivo de IP segunda instancia.docx
+											
+											(32) Secretaría - Realizar constancia secretarial
+											5- Constancia ejecutoria de archivo de IP segunda instancia.docx
+											
+											--- FIN ---
+								
+								
+								NO
+						
+						NO
+							(20) Realizar constancia ejecutoria
+							10- Constancia secretarial_no presenta recurso apelación.docx (Falta)
+							--- FIN ---
+			
+	
+	
+	
+	NO
+		¿Se Inicia indagación previa?
+			SI
+				(10) Realizar auto de inicio de indagación previa
+				3- AUTO INICIO INDAGACIÓN PREVIA 1952.doc
+				
+				(12) Comunicar al quejoso o informante
+				3- Memorando_Oficio_Comunicación Inicio Indagación Previa.docx
+				
+				(14) Solicitar, recaudar y analizar pruebas
+				3- Memorando_Oficio_Solicitud de Pruebas_IP 1952.2.docx
+				3- AUTO VARIO ORDENAR PRUEBAS_IP 1952.2.docx
+				3- AUTO VARIO ALLEGANDO PRUEBAS_IP 1952.1.doc
+				
+				---- Va arriba a "¿Se ordena investigación disciplinaria? ----
+		
+		
+			NO	
+				(4) Realizar auto inhibitorio:
+				2- INHIBITORIO  1952.doc
+				
+				(6) Comununicar al quejoso:
+				2- Memorando_Oficio_Comunicación a quejoso de inhibitorio.docx
+				
+				(8) Secretaría - Archivar documentos al expediente:
+				11- Archivar documentos al expediente (Se puede reabrir el caso, poder cambiar a cualquier estado)
+				
+				--FIN con posibilidad de reabrir el caso, poder cambiar a cualquier estado--
+	

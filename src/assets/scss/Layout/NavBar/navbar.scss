@@ -1,0 +1,7 @@
+$navBarShadow20Percent: "rgba(34, 51, 84, 0.2)";
+$navBarShadow10Percent: "rgba(34, 51, 84, 0.1)";
+
+.navBar {
+  box-shadow: 0px 2px 8px -3px $navBarShadow20Percent,
+    0px 5px 22px -4px $navBarShadow10Percent;
+}

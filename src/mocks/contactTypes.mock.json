@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id" : 1,
+      "name": "Correo electrónico",
+      "state" : true,
+      "createdAt": "2022-01-13T17:07:00.011Z",
+      "updatedAt": "2022-02-13T19:56:25.976Z"
+    },
+    {
+      "id" : 2,
+      "name": "Memorando",
+      "state" : true,
+      "createdAt": "2022-01-13T17:07:00.011Z",
+      "updatedAt": "2022-02-13T19:56:25.976Z"
+    },
+    {
+      "id": 3,
+      "name": "Formato de notificación personal",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id" : 4,
+      "name": "Edicto",
+      "state" : true,
+      "createdAt": "2022-01-13T17:07:00.011Z",
+      "updatedAt": "2022-02-13T19:56:25.976Z"
+    }
+  ]
+}

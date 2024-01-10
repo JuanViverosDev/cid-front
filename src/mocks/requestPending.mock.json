@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "20221025",
+      "fileNumber": "20221025",
+      "nameRequester" : "Jose Guerrero",
+      "subject" : "Servicio de Energía Deficiente",
+      "createdAtDIC": "2022-02-01T16:24:58.773Z",
+      "userAssigned": "David Bustos",
+      "attachments": "2 Docs",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "expireDate": "2022-02-01T16:24:58.773Z",
+      "state": "En Reparto"
+    },
+    {
+      "id": "20221022",
+      "fileNumber": "20221295",
+      "nameRequester" : "Jose Guerrero",
+      "subject" : "Servicio de Energía Deficiente",
+      "createdAtDIC": "2022-02-01T16:24:58.773Z",
+      "userAssigned": "David Bustos",
+      "attachments": "2 Docs",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "expireDate": "2022-02-01T16:24:58.773Z",
+      "state": "En Reparto"
+    },
+    {
+      "id": "20221021",
+      "fileNumber": "20221019",
+      "nameRequester" : "Jose Guerrero",
+      "subject" : "Servicio de Energía Deficiente",
+      "createdAtDIC": "2022-02-01T16:24:58.773Z",
+      "userAssigned": "David Bustos",
+      "attachments": "2 Docs",
+      "updatedAt": "2022-02-01T16:24:58.773Z",
+      "expireDate": "2022-02-01T16:24:58.773Z",
+      "state": "En Reparto"
+    }
+  ]
+}

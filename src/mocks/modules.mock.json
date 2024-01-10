@@ -1,0 +1,69 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id" : 1,
+      "m_name": "Peticiones",
+      "m_description":"Peticiones",
+      "state" : true,
+      "createdAt": "2022-01-13T17:07:00.011Z",
+      "updatedAt": "2022-02-13T19:56:25.976Z"
+    },
+    {
+      "id" : 2,
+      "m_name": "Usuarios",
+      "m_description":"Usuarios",
+      "state" : true,
+      "createdAt": "2022-01-13T17:07:00.011Z",
+      "updatedAt": "2022-02-13T19:56:25.976Z"
+    },
+    {
+      "id": 3,
+      "m_name": "Cargos",
+      "m_description":"Cargos",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 4,
+      "m_name": "Roles",
+      "m_description":"Roles",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 5,
+      "m_name": "Sistema",
+      "m_description":"Sistema",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 6,
+      "m_name": "Estados Proceso",
+      "m_description":"Estados Proceso",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 7,
+      "m_name": "Tipos de contacto",
+      "m_description":"Tipos de contacto",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 8,
+      "m_name": "Tipos de solicitudes",
+      "m_description":"Tipos de solicitudes",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    }
+  ]
+}

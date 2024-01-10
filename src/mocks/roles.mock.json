@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id" : 1,
+      "name": "Administrador",
+      "state" : true,
+      "createdAt": "2022-01-13T17:07:00.011Z",
+      "updatedAt": "2022-02-13T19:56:25.976Z"
+    },
+    {
+      "id" : 2,
+      "name": "Director",
+      "state" : true,
+      "createdAt": "2022-01-13T17:07:00.011Z",
+      "updatedAt": "2022-02-13T19:56:25.976Z"
+    },
+    {
+      "id": 3,
+      "name": "Ventanilla Unica",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 4,
+      "name": "Auxiliar General del Area Funcional de Secretaría Común",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 5,
+      "name": "Profesional I, II, III/Abogados",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 6,
+      "name": "Gerencia General",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 7,
+      "name": "Apoderado",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 8,
+      "name": "Disciplinado",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 9,
+      "name": "Quejoso",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 10,
+      "name": "Informante",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    },
+    {
+      "id": 11,
+      "name": "Otras dependencias de EMCALI y entes o personas externas a EMCALI",
+      "state": true,
+      "createdAt": "2022-02-01T16:24:58.773Z",
+      "updatedAt": "2022-08-29T14:49:01.904Z"
+    }
+  ]
+}
