@@ -1,1 +1,1 @@
-export const urlBase = "https://cid.onrender.com";
+export const urlBase = "https://cid.onrender.com/api";
