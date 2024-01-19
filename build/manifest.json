@@ -1,13 +1,6 @@
 {
-  "short_name": "Emcali Platform by CID - Control disciplinario",
-  "name": "Emcali Platform by CID - Control disciplinario",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
+  "short_name": "CID - Control disciplinario",
+  "name": "CID - Control disciplinario",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",

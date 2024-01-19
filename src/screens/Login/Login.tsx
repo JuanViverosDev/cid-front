@@ -244,9 +244,9 @@ export const Login = () => {
             </div>
           </div>
         </div>
-        <div className="hidden lg:flex relative w-0 flex-1 loginBg rounded-bl-login  justify-center items-center">
+        <div className="hidden lg:flex relative w-0 flex-1   justify-center items-center">
           {/* <img alt='CID logo' src={cidlogo} /> */}
-          <img alt="CID logo" src={emcaliLogo} className="absolute bottom-0 right-0" style={{ width: 230 }} />
+          {/* <img alt="CID logo" src={emcaliLogo} className="absolute bottom-0 right-0" style={{ width: 230 }} /> */}
         </div>
       </div>
     </>

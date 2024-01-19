@@ -78,12 +78,12 @@ export const Sidebar = () => {
                 </div>
               </Transition.Child>
               <div className='flex-shrink-0 flex justify-start items-center pl-10 px-4'>
-                <img
+                {/* <img
                   className='h-8 w-auto'
                   src={EMCALILOGO}
                   alt='CID - Control Interno Disciplinario'
-                />
-            {/* <p className="font-black text-4xl mt-4">CID</p> */}
+                /> */}
+            <p className="font-black text-4xl mt-4">CID</p>
               </div>
 
               <div className='mt-5 flex-1 h-0 overflow-y-auto'>
@@ -143,13 +143,13 @@ export const Sidebar = () => {
         {/* Sidebar component, swap this element with another sidebar if you like */}
         <div className='flex flex-col flex-grow pt-1 bg-cidPrimaryWhite overflow-y-auto'>
           <div className='flex-shrink-0 flex justify-center items-center px-4'>
-            <img
+            {/* <img
               className='w-auto'
               style={{  height: 80 }}
               src={EMCALILOGO}
               alt='CID - Control Interno Disciplinario'
-            />
-            {/* <p className="font-black text-4xl mt-4">CID</p> */}
+            /> */}
+            <p className="font-black text-4xl mt-4">CID</p>
           </div>
           <div className='mt-5 flex-1 flex flex-col'>
             <nav className='flex-1 pb-4 space-y-1'>

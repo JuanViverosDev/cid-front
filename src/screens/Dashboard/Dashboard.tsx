@@ -17,7 +17,7 @@ export const Dashboard = () => {
 
   const series = [
     {
-      data: [15, 27, 18, 20, 23, 17, 15],
+      data: [0,0,0,0,0,0,0 ],
     },
   ];
 
